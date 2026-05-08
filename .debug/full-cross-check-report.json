@@ -1,0 +1,11 @@
+{
+  "total": 50,
+  "checked": 50,
+  "bothSuccess": 50,
+  "dvhcvnFail": 0,
+  "mappingFail": 0,
+  "provinceMismatch": 0,
+  "wardMismatch": 0,
+  "mismatchSamples": [],
+  "failSamples": []
+}
